@@ -1,4 +1,4 @@
-﻿#SingleInstance Force
+#SingleInstance Force
 setkeydelay, -1
 setmousedelay, -1
 setbatchlines, -1
@@ -40,7 +40,7 @@ HoldRodCastDuration := 1000
 WaitForBobberDelay := 1000
 
 ; Set this to your navigation key, IMPORTANT
-NavigationKey := "ň"
+NavigationKey := "/"
 
 ;     SHAKE SETTINGS     ====================================================================================================;
 
