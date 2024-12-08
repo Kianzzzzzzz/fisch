@@ -1,4 +1,4 @@
-﻿#ifWinActive, Roblox
+#ifWinActive, Roblox
 #SingleInstance Force
 setkeydelay, 0
 setmousedelay, 0
@@ -22,7 +22,7 @@ WhiteBarColorTolerance := 15
 FishBarColorTolerance := 2
 
 ; Navigation UI Settings
-NavigationKey := "ň"
+NavigationKey := "/"
 NavigationFailsafeTimer := 20
 NavigationInputDelay := 10
 
